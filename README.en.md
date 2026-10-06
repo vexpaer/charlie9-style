@@ -13,6 +13,14 @@ Monochrome storytelling · Character design · Environments · Photo-to-illustra
 
 </div>
 
+## Promo posters
+
+<p align="center">
+  <a href="promo/charlie9-style_skill_promo_poster.png"><img src="promo/charlie9-style_skill_promo_poster.png" height="560" alt="Charlie9 illustration Skill promotional poster"></a>
+  &nbsp;&nbsp;
+  <a href="promo/charlie9-style_skill_promo_02_repo_intro.png"><img src="promo/charlie9-style_skill_promo_02_repo_intro.png" height="560" alt="Repository overview: 27 source volumes, 141 reference illustrations, 10 focused analyses, and the GitHub link"></a>
+</p>
+
 ## Examples
 
 <p align="center">

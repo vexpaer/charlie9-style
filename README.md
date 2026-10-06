@@ -13,6 +13,14 @@
 
 </div>
 
+## 仓库宣传图
+
+<p align="center">
+  <a href="promo/charlie9-style_skill_promo_poster.png"><img src="promo/charlie9-style_skill_promo_poster.png" height="560" alt="查理九世插画 Skill 宣传图"></a>
+  &nbsp;&nbsp;
+  <a href="promo/charlie9-style_skill_promo_02_repo_intro.png"><img src="promo/charlie9-style_skill_promo_02_repo_intro.png" height="560" alt="仓库介绍：27 册原作样本、141 张参考插画、10 份专题分析及 GitHub 链接"></a>
+</p>
+
 ## 生成示例
 
 <p align="center">
