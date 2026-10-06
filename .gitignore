@@ -7,6 +7,14 @@ reports/review_queue_sheets/
 reports/representative_contact_sheets/
 reports/extraction-report.html
 
+# Skill preparation files stay local
+config/
+metadata/
+tools/
+reports/
+requirements.txt
+run.bat
+
 # Local environments and credentials
 .venv/
 venv/

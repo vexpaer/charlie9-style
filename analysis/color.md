@@ -16,4 +16,4 @@
 
 - [第20册第3页：彩色前置页示例](../references/representative/front_matter/c09_v20_p0003_i01.png)
 - [第18册第5页：另一种彩色人物页](../references/representative/front_matter/c09_v18_p0005_i02.png)
-- [彩色与黑白代表图对照](../reports/representative-gallery.html)
+- [彩色与黑白代表图对照](../references/gallery.html)

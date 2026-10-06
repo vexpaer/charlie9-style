@@ -11,20 +11,20 @@ MIT 许可适用于本项目代码与原创文档，包括 SKILL.md 和风格分
 Images under references/representative/ are crops from scanned Charlie 9 books.
 Their copyright remains with the respective rights holders. The project has not
 verified illustrator attribution or permission for general redistribution.
-Source volume and PDF page information are recorded in metadata/representative_references.jsonl.
+Source volume and PDF page information are recorded in references/sources.md.
 No ownership or image reuse rights are granted by this project.
 
 references/representative/ 中的图片来自《查理九世》扫描样本，版权归各自
 权利人所有。本项目未确认具体作者归属或一般再分发授权；来源册与 PDF 页码
-记录于 metadata/representative_references.jsonl。项目不授予这些图片的使用权。
+记录于 references/sources.md。项目不授予这些图片的使用权。
 
 ## Example images / 示例图片
 
-Images under reports/style-tests/ include generated illustrations and a user-supplied
+Images under examples/ include generated illustrations and a user-supplied
 photograph comparison. These visual assets are excluded from the MIT software license.
 No separate image license is granted here.
 
-reports/style-tests/ 包含生成插画与用户提供照片的对比展示；这些视觉资料
+examples/ 包含生成插画与用户提供照片的对比展示；这些视觉资料
 不属于 MIT 软件许可范围，本项目未授予单独的图片许可。
 
 For concerns about a reference image, open an issue identifying the path and

@@ -1,8 +1,0 @@
-{
-  "project_name": "charlie9-style",
-  "source_dir": "../查理九世",
-  "render_dpi": 300,
-  "page_image_format": "png",
-  "preserve_source_scans": true,
-  "use_local_vision_model": false
-}

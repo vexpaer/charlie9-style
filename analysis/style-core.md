@@ -23,4 +23,4 @@
 - [第1册第106页：阴影逼近与人物逃跑](../references/representative/story_scene/c09_v01_p0106_i01.png)
 - [第7册第140页：巨型触手与人物尺度](../references/representative/story_scene/c09_v07_p0140_i01.png)
 - [第23册第10页：树木框景与纵深](../references/representative/story_scene/c09_v23_p0010_i01.png)
-- [全部代表图](../reports/representative-gallery.html)
+- [全部代表图](../references/gallery.html)

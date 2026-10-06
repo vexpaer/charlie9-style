@@ -47,5 +47,5 @@ Read only the notes relevant to the requested image:
 - [Creature design](analysis/creature-design.md)
 - [Suspense and horror](analysis/horror-language.md)
 - [Color](analysis/color.md)
-- [Representative gallery](reports/representative-gallery.html)
-- [Corpus method and limitations](reports/style-report.md)
+- [Representative gallery](references/gallery.html)
+- [Reference sources](references/sources.md)
