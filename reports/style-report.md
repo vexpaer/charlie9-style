@@ -18,9 +18,8 @@
 
 - [带示例图片的可复用 skill](../SKILL.md)
 - [代表图浏览器](representative-gallery.html)
-- [全部裁切候选浏览器](extraction-report.html)
-- [第一张代表图联系表](representative_contact_sheets/all/candidates-001.jpg)
-- [第二张代表图联系表](representative_contact_sheets/all/candidates-002.jpg)
+- 全部裁切候选浏览器：`extraction-report.html`（本地处理产物，不随公开仓库发布）
+- 代表图联系表：`representative_contact_sheets/all/`（本地处理产物，不随公开仓库发布）
 - [页面索引](../metadata/pages.jsonl)
 - [插图与裁图索引](../metadata/illustrations.jsonl)
 - [人工选图清单](../metadata/representative_references.jsonl)
