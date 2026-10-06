@@ -1,0 +1,19 @@
+# Source scans and reproducible intermediate data
+*.pdf
+dataset/
+reports/contact_sheets/
+reports/candidate_sheets/
+reports/review_queue_sheets/
+reports/representative_contact_sheets/
+reports/extraction-report.html
+
+# Local environments and credentials
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
